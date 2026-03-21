@@ -1,15 +1,2 @@
-# **************************************************************************** #
-#                                                                              #
-#                                                         :::      ::::::::    #
-#    ft_hello_garden.py                                 :+:      :+:    :+:    #
-#                                                     +:+ +:+         +:+      #
-#    By: davgarc4 <davgarc4@student.42madrid.com    +#+  +:+       +#+         #
-#                                                 +#+#+#+#+#+   +#+            #
-#    Created: 2026/03/16 19:03:21 by davgarc4          #+#    #+#              #
-#    Updated: 2026/03/16 19:04:54 by davgarc4         ###   ########.fr        #
-#                                                                              #
-# **************************************************************************** #
-
 def ft_hello_garden():
-	print("Hello, Garden Community!")
-	
+    print("Hello, Garden Community!")
